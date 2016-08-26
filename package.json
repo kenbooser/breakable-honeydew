@@ -2,9 +2,10 @@
   "name": "breakable-honeydew",
   "version": "1.0.0",
   "description": "",
-  "main": "todo.js",
+  "main": "src/index/index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "start": "node src/index/index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/tbooser/breakable-honeydew/issues"
   },
-  "homepage": "https://github.com/tbooser/breakable-honeydew#readme"
+  "homepage": "https://github.com/tbooser/breakable-honeydew#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
 }
