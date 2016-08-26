@@ -1,0 +1,19 @@
+{
+  "name": "breakable-honeydew",
+  "version": "1.0.0",
+  "description": "",
+  "main": "todo.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tbooser/breakable-honeydew.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tbooser/breakable-honeydew/issues"
+  },
+  "homepage": "https://github.com/tbooser/breakable-honeydew#readme"
+}
